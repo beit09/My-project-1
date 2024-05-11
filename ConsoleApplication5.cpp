@@ -10,6 +10,6 @@ int main()
 	int dif = a - b;
 	int pro = a * b;
 	int quo = a / b;
-	cout << sum << " " << dif << " " << pro << " " << quo;
+	cout << "sum =" << sum << " " << "dif =" << dif << " " << "pro =" << pro << " " << "quo = " << quo;
 	return 0;
 }
